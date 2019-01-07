@@ -1,0 +1,11 @@
+/Users/felixramirez/source/codeworks/guessgame/bin/Debug/netcoreapp2.2/guessgame.deps.json
+/Users/felixramirez/source/codeworks/guessgame/bin/Debug/netcoreapp2.2/guessgame.runtimeconfig.json
+/Users/felixramirez/source/codeworks/guessgame/bin/Debug/netcoreapp2.2/guessgame.runtimeconfig.dev.json
+/Users/felixramirez/source/codeworks/guessgame/bin/Debug/netcoreapp2.2/guessgame.dll
+/Users/felixramirez/source/codeworks/guessgame/bin/Debug/netcoreapp2.2/guessgame.pdb
+/Users/felixramirez/source/codeworks/guessgame/obj/Debug/netcoreapp2.2/guessgame.csprojAssemblyReference.cache
+/Users/felixramirez/source/codeworks/guessgame/obj/Debug/netcoreapp2.2/guessgame.csproj.CoreCompileInputs.cache
+/Users/felixramirez/source/codeworks/guessgame/obj/Debug/netcoreapp2.2/guessgame.AssemblyInfoInputs.cache
+/Users/felixramirez/source/codeworks/guessgame/obj/Debug/netcoreapp2.2/guessgame.AssemblyInfo.cs
+/Users/felixramirez/source/codeworks/guessgame/obj/Debug/netcoreapp2.2/guessgame.dll
+/Users/felixramirez/source/codeworks/guessgame/obj/Debug/netcoreapp2.2/guessgame.pdb
